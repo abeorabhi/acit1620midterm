@@ -1,0 +1,25 @@
+#demo {
+    width:70vw;
+    height:70vh;
+    right:0px;
+    left:0px;
+    margin:auto;
+    position:fixed;
+}
+
+#contents {
+    position:relative;
+    text-align:center;
+    height:60%;
+    margin:auto;
+    padding:20px;
+}
+
+.images {
+    width:20%;
+    height:50%;
+    position:relative;
+    background-size:cover;
+    background-position:center;
+}
+
